@@ -52,6 +52,55 @@
 		   DEFAULT CSS START
 	  ==============================================================
 */
+td{
+  /* color: #000; */
+  font-weight: 400;
+}
+.gfrKEe {
+  order: 1;
+  position: relative;
+  box-shadow: 4px 4px 20px #00000047;
+  border-radius: 50%;
+}
+    .kvLxar {
+  display: flex;
+  margin: 7px;
+  position: relative;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-animation: mover 1s infinite  alternate;
+  animation: mover .5s infinite  alternate;
+}
+.gfrKEe {
+  order: 1;
+  position: relative;
+  box-shadow: 4px 4px 20px #00000047;
+  border-radius: 50%;
+}
+@-webkit-keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
+}
+@keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
+}
+.dkuywW {
+  position: relative;
+  width: 64px;
+  margin: auto;
+  display: none!important;
+}
+.col-md-4{
+  margin-top:7px;
+}
+.col-md-3{
+  margin-top:7px;
+}
+.col-md-2{
+  margin-top:7px;
+}
+
 .float-right{float: right;right: 69px;
   bottom: 30px;position: fixed;transition: opacity 0.2s linear 0s, visibility;
   margin-right: 20px;}
@@ -480,7 +529,7 @@ section,
   font-size: 14px;
   text-transform: capitalize;
   display: block;
-  padding: 10px 12px 8px;
+  padding: 13px 7px 8px;
   position: relative;
   z-index: 2;
   position: relative;
@@ -634,7 +683,7 @@ section,
 .nav_3 > ul > li a {
   display: block;
   color: #fff;
-  font-size: 11px;
+  font-size: 13px;
   text-transform: uppercase;
   font-weight: normal;
   padding: 7px 6px;
@@ -1241,7 +1290,7 @@ section,
   width: 50%;
   top: 0;
   bottom: 0;
-  background-image: url(extra-images/CarE_programme.jpg);
+  background-image: url(extra-images/creative_resized.jpg);
   background-size: cover;
   background-position: center;
   position: absolute;

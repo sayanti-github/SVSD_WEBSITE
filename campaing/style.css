@@ -290,15 +290,6 @@ h3 {
 	background-color:#fff;
 	text-align: left;
 }
-.edu2_ft_topbar_wrap .apply-now a{
-	background: black;
-    color: white;
-    font-family: "Roboto Slab", serif;
-    font-weight: 600;
-    border-radius: 4px;
-    padding: 10px 41px;
-	font-size: 18px;
-}
 .edu2_navigation ul ul li a{
 	width:100%;
 	text-transform: capitalize;
@@ -363,21 +354,6 @@ h3 {
 #mobile-header{
 	display:none;
 }
-.apply2 {
-    display: block;
-    text-align: center;
-    font-size: 14px;
-    line-height: 14px;
-    text-transform: uppercase;
-    color: #fff;
-    font-weight: bold;
-    padding: 15px 30px;
-    border-radius: 7px;
-}
-.apply2:hover {
-    background: #000;
-    color: #fff;
-}
 /*
 	  ==============================================================
 		   KF EDUCATION 2 HEADER CSS END
@@ -416,7 +392,6 @@ h3 {
 .login_wrap{
 	float: right;
 }
-
 .login_wrap li{
 	display:inline-block;
 }
